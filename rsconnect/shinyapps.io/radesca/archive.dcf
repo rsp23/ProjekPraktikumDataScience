@@ -1,0 +1,14 @@
+name: archive
+title: archive
+username:
+account: radesca
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5363023
+bundleId: 5401541
+url: https://radesca.shinyapps.io/archive/
+when: 1640188304.80001
+lastSyncTime: 1640188304.80001
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: akhir.R|coba.docx|coba.Rmd
